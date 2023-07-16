@@ -1,6 +1,6 @@
 {
     "name": "bellows-app/plugin-sentry-php",
-    "description": "An intelligent command line utility that sits on top of Laravel Forge to get your site up and running with all of your third party integrations configured at the speed of light.",
+    "description": "Bellows plugin for integrating Sentry PHP into your app.",
     "keywords": [
         "laravel",
         "console",

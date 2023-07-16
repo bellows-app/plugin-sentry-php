@@ -1,3 +1,3 @@
-# plugin-sentry-php
+# Bellows Sentry PHP Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/sentry-php](https://bellows.dev/docs/plugins/sentry-php)
